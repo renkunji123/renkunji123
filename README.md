@@ -17,8 +17,11 @@
 
 ## Connect with me:
 <p align="left">
-    <a href="mailto:your_email@example.com">Email me</a>
+    <a href="mailto:quocthai312004@gmail.com">
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" style="width:25px; height:25px; vertical-align:middle;"> Email me
+    </a>
 </p>
+
 
 
 ## Languages and Tools:
