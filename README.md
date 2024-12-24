@@ -16,7 +16,10 @@
 - ⚡ Fun fact **I can spend hours debugging code but forget to take a coffee break.**
 
 ## Connect with me:
-<p align="left"></p>
+<p align="left">
+    <a href="mailto:your_email@example.com">Email me</a>
+</p>
+
 
 ## Languages and Tools:
 
