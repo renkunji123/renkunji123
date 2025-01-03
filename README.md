@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **cybersecurity and exploring topics like network security, encryption, and vulnerability assessment.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/renkunji123](https://github.com/renkunji123)
+- 👨‍💻 All of my projects are available at [My Github Profile](https://github.com/renkunji123)
 
 - 📫 How to reach me **quocthai312004@gmail.com**
 
