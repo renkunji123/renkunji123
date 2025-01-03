@@ -11,8 +11,7 @@
 
 - 📫 How to reach me **quocthai312004@gmail.com**
 
-- 📄 Know about my experiences [https://www.topcv.vn/xem-cv/UAsHVA5SVg5SV1NQAQdSB1MCAFJVBlcABwQGVw72b1](https://www.topcv.vn/xem-cv/UAsHVA5SVg5SV1NQAQdSB1MCAFJVBlcABwQGVw72b1)
-
+- 📄 Know about my experiences [My CV](https://www.topcv.vn/xem-cv/UgQBAlVXVwACUgVQVAVbAQcBVwMCCwNTW1ZYVQ2cc5)
 - ⚡ Fun fact **I can spend hours debugging code but forget to take a coffee break.**
 
 ## Connect with me:
