@@ -1,4 +1,4 @@
-# Hi 👋, I'm Nguyen Quoc Thai
+# Hi 👋, I'm Lazy Tool
 ### A Fullstack developer from VietNam
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renkunji123&label=Profile%20views&color=0e75b6&style=flat" alt="renkunji123" /> </p>
@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [My Github Profile](https://github.com/renkunji123)
 
-- 📫 How to reach me **quocthai312004@gmail.com**
+- 📫 How to reach me **[DISCORD](https://discord.gg/Wm5b3WveU9)**
 
-- 📄 Know about my experiences [My CV](https://www.topcv.vn/xem-cv/UgQBAlVXVwACUgVQVAVbAQcBVwMCCwNTW1ZYVQ2cc5)
+- 📄 Know about my experiences [My CV]
 - ⚡ Fun fact **I can spend hours debugging code but forget to take a coffee break.**
 
 ## Connect with me:
